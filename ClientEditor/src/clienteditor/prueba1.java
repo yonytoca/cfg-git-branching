@@ -10,5 +10,5 @@ package clienteditor;
  * @author EDUARDO
  */
 public class prueba1 {
-    
+ //zsdcfsdfsdfsadfa   
 }
